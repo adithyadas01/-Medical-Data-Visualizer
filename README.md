@@ -1,4 +1,4 @@
-# -Medical-Data-Visualizer
+# Medical-Data-Visualizer
 This project is part of the freeCodeCamp Data Analysis with Python certification. You will visualize and analyze medical examination data using Pandas, Matplotlib, and Seaborn to explore relationships between various health indicators and cardiovascular disease.
 
 The dataset (medical_examination.csv) contains information about patients’ body measurements, blood test results, and lifestyle choices.
@@ -32,15 +32,15 @@ Cleaned dataset to remove outliers and incorrect data
 Displayed correlation matrix of medical features
 
 📈 Visualizations
-🧩 Categorical Plot
+Categorical Plot
 
 Displays the counts of good/bad outcomes for lifestyle and medical features, grouped by cardiovascular condition.
 
-🔥 Heatmap
+Heatmap
 
 Shows correlations between features after data cleaning, highlighting how body measurements and health indicators relate to heart disease.
 
-⚙️ Tools & Libraries
+Tools & Libraries
 
 Python 🐍
 
